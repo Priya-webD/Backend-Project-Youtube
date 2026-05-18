@@ -1,2 +1,2 @@
-# backend with JS notes 
+# Backend with JS notes 
 

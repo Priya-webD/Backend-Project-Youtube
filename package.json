@@ -2,14 +2,18 @@
   "name": "project_youtube",
   "version": "1.0.0",
   "description": "backend project - creating a youtube + twitter combination application",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "JavaScript",
     "Backend"
   ],
   "author": "Priya",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
 }
