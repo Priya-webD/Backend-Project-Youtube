@@ -1,0 +1,15 @@
+{
+  "name": "project_youtube",
+  "version": "1.0.0",
+  "description": "backend project - creating a youtube + twitter combination application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "JavaScript",
+    "Backend"
+  ],
+  "author": "Priya",
+  "license": "ISC"
+}
